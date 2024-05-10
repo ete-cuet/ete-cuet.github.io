@@ -28,14 +28,14 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <h4><a href="{{member.url}}">{{ member.name }}</a></h4>
   <i>{{ member.edu1 }} {{ member.edu2 }}</i> <br>
   {% if member.number_emp == 1 %}
-    <b>Now</b>: {{ member.now }}<br>
-    <b>Expertise</b>: {{ member.expert}}<br>
+  <b>Now</b>: {{ member.now }}<br>
+  <b>Expertise</b>: {{ member.expert}}<br>
   {% endif %}
 
-   {% if member.number_emp == 2 %}
-    <b>Now</b>: {{ member.now }}<br>
-    <b>Previous</b>: {{ member.prev }}<br>
-    <b>Expertise</b>: {{ member.expert }}<br>
+  {% if member.number_emp == 2 %}
+  <b>Now</b>: {{ member.now }}<br>
+  <b>Previous</b>: {{ member.prev }}<br>
+  <b>Expertise</b>: {{ member.expert }}<br>
   {% endif %}
  
   
