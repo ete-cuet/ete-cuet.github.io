@@ -1,9 +1,9 @@
 ---
-title: "Allan Lab - Team"
+title: "ETE Alumni"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "ETE Alumni Profiles"
 sitemap: false
-permalink: /team/
+permalink: /alumni/
 ---
 
 # Group Members
