@@ -29,13 +29,13 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <i>{{ member.edu1 }} {{ member.edu2 }}</i> <br>
   {% if member.number_emp == 1 %}
     <b>Now</b>: {{ member.now }}<br>
-    <b>Expertise</b>: {{ member.expert}}<br></li>
+    <b>Expertise</b>: {{ member.expert}}<br>
   {% endif %}
 
    {% if member.number_emp == 2 %}
     <b>Now</b>: {{ member.now }}<br>
     <b>Previous</b>: {{ member.prev }}<br>
-    <b>Expertise</b>: {{ member.expert }}<br></li>
+    <b>Expertise</b>: {{ member.expert }}<br>
   {% endif %}
  
   
@@ -148,13 +148,13 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <i>{{ member.edu1 }} {{ member.edu2 }}</i> <br>
   {% if member.number_emp == 1 %}
     <b>Now</b>: {{ member.now }}<br>
-    <b>Research</b>: {{ member.expert}}<br></li>
+    <b>Research</b>: {{ member.expert}}<br>
   {% endif %}
 
    {% if member.number_emp == 2 %}
     <b>Now</b>: {{ member.now }}<br>
     <b>Previous</b>: {{ member.prev }}<br>
-    <b>Research</b>: {{ member.expert }}<br></li>
+    <b>Research</b>: {{ member.expert }}<br>
    
   {% endif %}
 </div>
