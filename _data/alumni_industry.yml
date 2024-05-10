@@ -1,8 +1,8 @@
 - name: Md. Adbul Muktadir
   photo: Jiasen.png
   url: https://hanjiechen.github.io/
-  edu1: BSc (2013-17)
-  edu2:
+  edu1: BSc (2013-17),
+  edu2: BSc (2013-17) 
   number_emp: 1
   now: Support Engineer @ Pelatro PTE Ltd, Bangladesh.
   expert: DotNet, AI, ML
@@ -11,7 +11,7 @@
   photo: Sato.jpeg
   url: https://hanjiechen.github.io/
   edu1: BSc (2013-17)
-  edu2:
+  edu2: BSc (2013-17)
   number_emp: 1
   now: Network Engineer @ Fibre Home, Bangladesh.
   expert: DotNet, AI, ML
@@ -20,7 +20,7 @@
   photo: Thomas.jpg
   url: https://hanjiechen.github.io/
   edu1: BSc (2014-18)
-  edu2:
+  edu2: BSc (2013-17)
   number_emp: 1
   now: Application Engineer @ Wipro, Bangladesh.
   expert: DotNet, AI, ML
@@ -29,7 +29,7 @@
   photo: tjeruk.jpg
   url: https://hanjiechen.github.io/
   edu1: BSc (2015-19)
-  edu2:
+  edu2: BSc (2013-17)
   number_emp: 2
   now: Software Engineer @ Hishab, Bangladesh.
   prev: Software Engineer @ Welcome Software, Bangladesh.
