@@ -1,10 +1,10 @@
 - name: Md. Adbul Muktadir
   photo: Jiasen.png
   url: https://hanjiechen.github.io/
-  edu1: BSc (2013-17),
-  edu2: BSc (2013-17) 
+  edu1: BSc (2013-17)
+  edu2:
   number_emp: 1
-  now: Support Engineer @ Pelatro PTE Ltd, Bangladesh.
+  now: Support Engineer @ Pelatro PTE Ltd
   expert: DotNet, AI, ML
 
 - name: Ratan Chandra Das  
@@ -13,25 +13,25 @@
   edu1: BSc (2013-17)
   edu2: BSc (2013-17)
   number_emp: 1
-  now: Network Engineer @ Fibre Home, Bangladesh.
+  now: Network Engineer @ Fibre Home
   expert: DotNet, AI, ML
 
 - name: Nasrin Jahan
   photo: Thomas.jpg
   url: https://hanjiechen.github.io/
   edu1: BSc (2014-18)
-  edu2: BSc (2013-17)
+  edu2: 
   number_emp: 1
-  now: Application Engineer @ Wipro, Bangladesh.
+  now: Application Engineer @ Wipro 
   expert: DotNet, AI, ML
 
 - name: Munif Tanjim Shaikat
   photo: tjeruk.jpg
   url: https://hanjiechen.github.io/
   edu1: BSc (2015-19)
-  edu2: BSc (2013-17)
+  edu2:
   number_emp: 2
-  now: Software Engineer @ Hishab, Bangladesh.
-  prev: Software Engineer @ Welcome Software, Bangladesh.
+  now: Software Engineer @ Hishab
+  prev: Software Engineer @ Welcome Software
   expert: DotNet, AI, ML  
 
