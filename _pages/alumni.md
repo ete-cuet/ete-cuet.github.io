@@ -11,7 +11,7 @@ permalink: /alumni/
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [industry/govt.](#industry/govt.), [master's and phd students](#master's-and-phd-students), [academician](#academician), [administrative support](#administrative-support).
+Jump to [industry/govt.](#industry/govt.), [master's and phd students](#Master's and PhD Students), [academician](#academician), [administrative support](#administrative-support).
 
 ## Industry/Govt.
 {% assign number_printed = 0 %}
