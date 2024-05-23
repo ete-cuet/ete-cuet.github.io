@@ -4,8 +4,8 @@
   edu1: BSc (2013-17)
   edu2:
   number_emp: 2
-  now: PhD Student, ECE @ University of Massachusetts Lowell, USA 
-  prev: Assistant Professor (On Leave), ETE @ CUET
+  now: PhD Student, ECE @ UMass Lowell, USA 
+  prev: Assistant Professor, ETE @ CUET
   expert: Photonics, Optics
 
 - name: Taieba Taher
@@ -31,9 +31,10 @@
   photo: female-photo.jpg
   url: https://www.linkedin.com/in/farhin-sultana-21067b124/
   edu1: BSc (2014-18)
-  edu2: MSc (2021-23), University of Ulsan, South Korea 
-  number_emp: 1
+  edu2: MSc (2021-23)
+  number_emp: 2
   now: Lecturer, ETE @ CUET
+  prev: Graduate Student @  University of Ulsan, South Korea 
   expert: Antenna Propagation 
 
 - name: Md Farhad Hossain
@@ -59,7 +60,7 @@
   photo: male-photo.jpg
   url: https://www.linkedin.com/in/ibrahimete13/
   edu1: BSc (2014-18)
-  edu2: MSc (2020-23), BUET
+  edu2: MSc (2020-23)
   number_emp: 2
   now: Assistant Professor, ETE @ CUET
   prev: Lecturer, EEE @ Uttara University
