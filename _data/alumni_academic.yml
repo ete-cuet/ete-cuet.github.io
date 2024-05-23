@@ -1,17 +1,67 @@
 - name: Sabrina Abedin
-  photo: Jiasen.png
-  url: https://hanjiechen.github.io/
+  photo: female-photo.jpg
+  url: https://www.linkedin.com/in/sabrina-abedin-b5104b234/
   edu1: BSc (2013-17)
   edu2:
-  number_emp: 1
-  now: Assistant Professor, ETE @ CUET
-  expert: DotNet, AI, ML
+  number_emp: 2
+  now: PhD Student, ECE @ University of Massachusetts Lowell, 
+  prev: Assistant Professor (On Leave), ETE @ CUET, Bangladesh
+  expert: Photonics, Optics
 
-- name: Arif Istiaque Rupom  
-  photo: Sato.jpeg
-  url: https://hanjiechen.github.io/
-  edu1: BSc (2016-20)
-  edu2: 
+- name: Taieba Taher
+  photo: female-photo.jpg
+  url: https://www.linkedin.com/in/taieba-taher-757566249/
+  edu1: BSc (2014-18)
+  edu2: MSc (2020-24)
+  number_emp: 2
+  now: Assistant Professor, ETE @ CUET, Bangladesh
+  prev: Lecturer, EEE @ City University, Bangladesh 
+  expert: Speech Processing
+
+- name: Khadija Akter
+  photo: female-photo.jpg
+  url: https://www.linkedin.com/in/taieba-taher-757566249/
+  edu1: BSc (2014-18)
+  edu2:
   number_emp: 1
-  now: Lecturer, ETE @ CUET
-  expert: DotNet, AI, ML
+  now: Assistant Professor, ETE @ CUET, Bangladesh
+  expert: Speech Processing
+
+- name: Farhin Sultana
+  photo: female-photo.jpg
+  url: https://www.linkedin.com/in/farhin-sultana-21067b124/
+  edu1: BSc (2014-18)
+  edu2: MSc (2021-23), University of Ulsan, South Korea 
+  number_emp: 1
+  now: Lecturer, ETE @ CUET, Bangladesh
+  expert: Antenna Propagation 
+
+- name: Md Farhad Hossain
+  photo: male-photo.jpg
+  url: https://www.linkedin.com/in/farhadete13/
+  edu1: BSc (2014-18)
+  edu2:
+  number_emp: 1
+  now: Assistant Professor, ETE @ CUET, Bangladesh
+  expert: Antenna Propagation
+
+- name: Eftekhar Hossain
+  photo: male-photo.jpg
+  url: https://eftekhar-hossain.github.io
+  edu1: BSc (2014-18)
+  edu2: MSc (2020-23)
+  number_emp: 2
+  now: Assistant Professor, ETE @ CUET, Bangladesh
+  prev: Lecturer, EEE @ Premier University, Bangladesh
+  expert: Natural Language Processing 
+
+- name: Md Ibrahim Khalil
+  photo: male-photo.jpg
+  url: https://www.linkedin.com/in/ibrahimete13/
+  edu1: BSc (2014-18)
+  edu2: MSc (2020-23), BUET, Bangladesh
+  number_emp: 2
+  now: Assistant Professor, ETE @ CUET, Bangladesh
+  prev: Lecturer, EEE @ Uttara University, Bangladesh
+  expert: Photonics 
+ 
