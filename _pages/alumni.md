@@ -142,7 +142,7 @@ Jump to [industry/govt.](#industry/govt.), [higher study](#higher-study), [acade
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix" style="display: flex; align-items: flex-start;">
+<div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4><a href="{{member.url}}">{{ member.name }}</a></h4>
   <i>{{ member.edu1 }} {{ member.edu2 }}</i> <br>
