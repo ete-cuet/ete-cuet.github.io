@@ -143,7 +143,7 @@ Jump to [industry/govt.](#industry/govt.), [higher study](#higher-study), [acade
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left;height: 200 px" />
   <h4><a href="{{member.url}}">{{ member.name }}</a></h4>
   <i>{{ member.edu1 }} {{ member.edu2 }}</i> <br>
   {% if member.number_emp == 1 %}
