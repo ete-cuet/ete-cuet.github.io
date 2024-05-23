@@ -4,8 +4,8 @@
   edu1: BSc (2013-17)
   edu2:
   number_emp: 2
-  now: PhD Student, ECE @ University of Massachusetts Lowell, 
-  prev: Assistant Professor (On Leave), ETE @ CUET, Bangladesh
+  now: PhD Student, ECE @ University of Massachusetts Lowell, USA 
+  prev: Assistant Professor (On Leave), ETE @ CUET
   expert: Photonics, Optics
 
 - name: Taieba Taher
@@ -14,8 +14,8 @@
   edu1: BSc (2014-18)
   edu2: MSc (2020-24)
   number_emp: 2
-  now: Assistant Professor, ETE @ CUET, Bangladesh
-  prev: Lecturer, EEE @ City University, Bangladesh 
+  now: Assistant Professor, ETE @ CUET
+  prev: Lecturer, EEE @ City University 
   expert: Speech Processing
 
 - name: Khadija Akter
@@ -24,7 +24,7 @@
   edu1: BSc (2014-18)
   edu2:
   number_emp: 1
-  now: Assistant Professor, ETE @ CUET, Bangladesh
+  now: Assistant Professor, ETE @ CUET
   expert: Speech Processing
 
 - name: Farhin Sultana
@@ -33,7 +33,7 @@
   edu1: BSc (2014-18)
   edu2: MSc (2021-23), University of Ulsan, South Korea 
   number_emp: 1
-  now: Lecturer, ETE @ CUET, Bangladesh
+  now: Lecturer, ETE @ CUET
   expert: Antenna Propagation 
 
 - name: Md Farhad Hossain
@@ -42,7 +42,7 @@
   edu1: BSc (2014-18)
   edu2:
   number_emp: 1
-  now: Assistant Professor, ETE @ CUET, Bangladesh
+  now: Assistant Professor, ETE @ CUET
   expert: Antenna Propagation
 
 - name: Eftekhar Hossain
@@ -51,17 +51,17 @@
   edu1: BSc (2014-18)
   edu2: MSc (2020-23)
   number_emp: 2
-  now: Assistant Professor, ETE @ CUET, Bangladesh
-  prev: Lecturer, EEE @ Premier University, Bangladesh
+  now: Assistant Professor, ETE @ CUET
+  prev: Lecturer, EEE @ Premier University
   expert: Natural Language Processing 
 
 - name: Md Ibrahim Khalil
   photo: male-photo.jpg
   url: https://www.linkedin.com/in/ibrahimete13/
   edu1: BSc (2014-18)
-  edu2: MSc (2020-23), BUET, Bangladesh
+  edu2: MSc (2020-23), BUET
   number_emp: 2
-  now: Assistant Professor, ETE @ CUET, Bangladesh
-  prev: Lecturer, EEE @ Uttara University, Bangladesh
+  now: Assistant Professor, ETE @ CUET
+  prev: Lecturer, EEE @ Uttara University
   expert: Photonics 
  
